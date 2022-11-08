@@ -255,7 +255,7 @@ function esVocal(letra){
     return "ES VOCAL";
   }
   return "incorrecto";
-}
+}git
 
 // No modificar nada debajo de esta línea
 // --------------------------------
